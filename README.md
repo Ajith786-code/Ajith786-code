@@ -3,20 +3,18 @@ Hi 👋 I'm Ajith
 Java Backend Developer
 
 ## Skills
-- Java
-- Spring Boot
-- MySQL
-- Git
-- HTML
-- CSS
+- Java, Python, SQL
+- Jdbc, Jsp, Spring Boot
+- MySQL, Oracle
+- Git & GitHub
+- HTML, CSS, JavaScript
+- Problem Solving
 
 ## Projects
-- Music Streaming Platform
-- Library Management System
+- Ecommerce Online Platform
+- Food Managemant Sysetem
+- Currently (Music Streaming Platform)
 
 ## Learning
 - System Design
-- Operating Systems
-- Computer Networks
-
 **Currently solving:** Data Structures & Algorithms (DSA)
