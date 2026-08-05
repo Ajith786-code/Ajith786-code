@@ -116,10 +116,10 @@ A restaurant management system that automates daily operations like online order
 <img src="https://github-profile-trophy.vercel.app/?username=Ajith786-code&theme=nord&no-frame=true&no-bg=true&margin-w=10" alt="Trophies" />
 </div>
 
-### 📈 Contribution Graph
+### 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajith786-code&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajith786-code&theme=react-dark&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Activity Graph" />
 </div>
 
 ---
