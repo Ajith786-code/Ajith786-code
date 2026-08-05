@@ -119,7 +119,7 @@ A restaurant management system that automates daily operations like online order
 ### 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajith786-code&theme=react-dark&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff&hide_border=true" alt="GitHub Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajith786-code&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
