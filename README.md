@@ -17,7 +17,7 @@
 
 ### 🧑‍💻 Who I Am
 
-Hi — I'm **Shaik Ajith**, a Java Backend Developer and Computer Science student. I design and build scalable backend systems using Java, Spring Boot, Hibernate, and relational databases. I care about clean code, testing, and practical solutions that deliver impact.
+Hi — I'm **Shaik Ajith**, a Java Backend Developer and Computer Science student. I design and build scalable backend systems using Java, Spring Boot, Hibernate, and relational databases. I care [...]
 
 <div align="left">
 
@@ -103,7 +103,7 @@ A restaurant management system that automates daily operations like online order
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ajith786-code&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&icon_color=7dd3fc" alt="GitHub Stats[...]" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ajith786-code&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&icon_color=7dd3fc" alt="GitHub Stat[...]" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajith786-code&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=Ajith786-code&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" alt="GitHub Streak" />
@@ -119,7 +119,7 @@ A restaurant management system that automates daily operations like online order
 ### 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajith786-code&theme=react-dark&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajith786-code&theme=react-dark&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Contribution Activity" />
 </div>
 
 ---
