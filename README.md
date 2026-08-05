@@ -103,7 +103,7 @@ A restaurant management system that automates daily operations like online order
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ajith786-code&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&icon_color=7dd3fc" alt="GitHub Stat[...]" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ajith786-code&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&icon_color=7dd3fc" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajith786-code&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=Ajith786-code&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" alt="GitHub Streak" />
@@ -116,10 +116,10 @@ A restaurant management system that automates daily operations like online order
 <img src="https://github-profile-trophy.vercel.app/?username=Ajith786-code&theme=nord&no-frame=true&no-bg=true&margin-w=10" alt="Trophies" />
 </div>
 
-### 📈 Contribution Activity
+### 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajith786-code&theme=react-dark&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Contribution Activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajith786-code&theme=react-dark&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff&hide_border=true" alt="GitHub Contribution Graph" />
 </div>
 
 ---
