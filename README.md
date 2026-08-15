@@ -3,8 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0284c7&height=220&section=header&text=Shaik%20Ajith&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ee31546e-3aed-4db6-a2e4-7a6e40a1de41" />
-" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+♨️" />
 </a>
 
 <img src="https://img.shields.io/static/v1?label=&message=Open%20to%20Work&color=7dd3fc&style=for-the-badge" alt="Open to Work"/>
